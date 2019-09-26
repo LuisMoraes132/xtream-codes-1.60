@@ -6,7 +6,7 @@ Is only for Ubuntu 14.04 LTS and Debian 7 or ether.
 
 
 
-[1] wget https://raw.githubusercontent.com/cpjt/Xtream-Codes-1.60.0/master/xtreamcodes_1.60.0.sh && chmod a+x xtreamcodes_1.60.0.sh && ./xtreamcodes_1.60.0.sh
+[1] wget https://github.com/LuisMoraes132/xtream-codes-1.60/blob/master/xtreamcodes_1.60.0.sh && chmod a+x xtreamcodes_1.60.0.sh && ./xtreamcodes_1.60.0.sh
 
 [2] Licença: 'XXXX-XXXX-XXXX-XXXX'
 
